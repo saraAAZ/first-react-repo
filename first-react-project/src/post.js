@@ -1,4 +1,4 @@
-const Post=()=>{
+    const posts=
     [
         {
           "userId": 1,
@@ -601,5 +601,5 @@ const Post=()=>{
           "body": "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut"
         }
       ]
-}
-export default Post
+
+export default posts
